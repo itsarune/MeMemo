@@ -1,0 +1,8 @@
+{
+    "notebook name": "readerTest",
+    "notes": [{
+        "note name": "General note",
+        "note description": "a general note",
+        "type": "GENERAL_NOTE"
+    }]
+}

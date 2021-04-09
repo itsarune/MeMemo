@@ -1,0 +1,11 @@
+{
+  "notebook name": "notebook",
+  "notes": [
+    {
+      "reminder": "2021-03-08T13:26:56.642",
+      "note name": "test reminder note",
+      "note description": "",
+      "type": "REMINDER_NOTE"
+    }
+  ]
+}
